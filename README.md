@@ -1,6 +1,6 @@
-# Ejercicios Básicos de Python
+# Ejercicios Básicos de PHP
 
-Este repositorio contiene una colección de ejercicios básicos de Python.
+Este repositorio contiene una colección de ejercicios básicos de PHP.
 ## Clonar el Repositorio
 
 Para clonar este repositorio, utiliza el siguiente comando:
